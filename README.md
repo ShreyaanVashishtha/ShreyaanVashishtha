@@ -20,3 +20,7 @@ Hi, I'm Shreyaan Vashishtha
   <br>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaanvashishtha)
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyaanvashishtha&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
