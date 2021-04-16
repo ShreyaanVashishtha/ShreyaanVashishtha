@@ -25,4 +25,4 @@ Hi, I'm Shreyaan Vashishtha
   
   <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaanvashishtha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaanvashishtha)]
