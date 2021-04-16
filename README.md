@@ -25,7 +25,7 @@ Hi, I'm Shreyaan Vashishtha
   
   <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaanvashishtha)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
